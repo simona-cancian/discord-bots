@@ -22,7 +22,7 @@ bot.remove_command('help')
 async def main():
     await bot.add_cog(GreetingsCog(bot))
     await bot.add_cog(Gamble(bot))
-    await bot.start(os.getenv('TOKEN'))
+    await bot.start(os.getenv('BAKI_TOKEN'))
 
 asyncio.run(main())
 

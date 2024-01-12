@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6a6fbf9-d87c-45c3-b1e4-3281a6af7d85" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baki_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/baki_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/main.sqlite" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +71,8 @@
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
-        <env name="TOKEN" value="MTE5MzEzNTQwNTQxMTg2MDUwMA.GvxdOu.Ydt2ig1ghn-SAemxiyVWJEJLlAaP5FROyIk5_s" />
+        <env name="BAKI_TOKEN" value="MTE5MzEzNTQwNTQxMTg2MDUwMA.GFlqx2.fpM5LVfq1rCIggH89D_qKoMrH7myTgFm9OlLRU" />
+        <env name="GANDALF_TOKEN" value="MTE5Mzc3MDk4OTczNDA2ODI1NQ.Gp051d.yJLQfVCBNr71JEFqc_ub03gikr8nC5qETJqK-M" />
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -157,8 +161,8 @@
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="GANDALF_TOKEN" value="MTE5Mzc3MDk4OTczNDA2ODI1NQ.Gp051d.yJLQfVCBNr71JEFqc_ub03gikr8nC5qETJqK-M" />
         <env name="TOKEN" value="MTE5MzEzNTQwNTQxMTg2MDUwMA.GvxdOu.Ydt2ig1ghn-SAemxiyVWJEJLlAaP5FROyIk5_s" />
-        <env name="GANDALF_TOKEN" value="MTE5Mzc3MDk4OTczNDA2ODI1NQ.Geu0iO.XLp6W9dowpffTaPV2ZlZ64Je3DRE2vTH5qFqqc" />
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -184,9 +188,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.baki_main" />
+        <item itemvalue="Python.music_main" />
         <item itemvalue="Python.gamble_cog" />
         <item itemvalue="Python.greetings_cog" />
-        <item itemvalue="Python.music_main" />
         <item itemvalue="Python.music_cog" />
       </list>
     </recent_temporary>

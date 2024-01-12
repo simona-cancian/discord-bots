@@ -1,2 +1,2 @@
 baki: python baki_main.py
-gandalf: music_main.py
+gandalf: python music_main.py

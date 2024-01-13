@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a6a6fbf9-d87c-45c3-b1e4-3281a6af7d85" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gamble_cog.py" beforeDir="false" afterPath="$PROJECT_DIR$/gamble_cog.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/main.sqlite" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,8 +187,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.baki_main" />
-        <item itemvalue="Python.music_main" />
         <item itemvalue="Python.gamble_cog" />
+        <item itemvalue="Python.music_main" />
         <item itemvalue="Python.greetings_cog" />
         <item itemvalue="Python.music_cog" />
       </list>

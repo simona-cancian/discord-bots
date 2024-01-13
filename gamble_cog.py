@@ -332,7 +332,6 @@ class Gamble(commands.Cog):
         coin = random.choice(["heads", "tails"])
 
         formatted_earning = "{:,}".format(earning)
-        formatted_wallet = "{:,}".format(wallet)
 
         if wallet >= cost:
             cursor.execute("UPDATE main SET wallet = ? WHERE user_id = ?", (wallet - cost, ctx.author.id))
@@ -346,6 +345,10 @@ class Gamble(commands.Cog):
             db.close()
             return await ctx.send("```You don't have enough Gaki coins to flip a coin```")
 
+        # Check if the expected_result is either 'heads' or 'tails'
+        if expected_result.lower().strip() not in ["heads", "tails"]:
+            return await ctx.send("```Please enter either 'heads' or 'tails'```")
+
         if expected_result.lower().strip() == coin:
             cursor.execute("UPDATE main SET wallet = ? WHERE user_id = ?", (wallet + earning, ctx.author.id))
             db.commit()
@@ -353,7 +356,6 @@ class Gamble(commands.Cog):
             cursor.execute(f'SELECT wallet FROM main WHERE user_id = ?', (ctx.author.id,))
             wallet = cursor.fetchone()[0]
             formatted_wallet = "{:,}".format(wallet)
-
             embed = discord.Embed(title=f"Heads or Tails??", color=discord.Color.green())
             embed.add_field(
                 name=f"-----------------------\n{ctx.author.name} just won 🪙 {formatted_earning} Gaki coins!"

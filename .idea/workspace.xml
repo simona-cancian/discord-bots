@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6a6fbf9-d87c-45c3-b1e4-3281a6af7d85" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gamble_cog.py" beforeDir="false" afterPath="$PROJECT_DIR$/gamble_cog.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/main.sqlite" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +62,7 @@
       <recent name="C:\Users\User\PycharmProjects\Discord-Bot-Tutorials" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.baki_main">
+  <component name="RunManager" selected="Python.music_main">
     <configuration name="baki_main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="discord-bots" />
       <option name="ENV_FILES" value="" />
@@ -70,8 +70,8 @@
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
-        <env name="BAKI_TOKEN" value="MTE5MzEzNTQwNTQxMTg2MDUwMA.GFlqx2.fpM5LVfq1rCIggH89D_qKoMrH7myTgFm9OlLRU" />
-        <env name="GANDALF_TOKEN" value="MTE5Mzc3MDk4OTczNDA2ODI1NQ.Gp051d.yJLQfVCBNr71JEFqc_ub03gikr8nC5qETJqK-M" />
+        <env name="BAKI_TOKEN" value="MTE5MzEzNTQwNTQxMTg2MDUwMA.GjgM4B.iAAVaL8mvIqWxrJby7s1UB3Q8MydMtJjF7fdX8" />
+        <env name="GANDALF_TOKEN" value="MTE5Mzc3MDk4OTczNDA2ODI1NQ.Gmz9HS.08BayyLkWc7MZNHVlJTJS5DgUesxlP9s4hiG6o" />
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -160,8 +160,7 @@
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
-        <env name="GANDALF_TOKEN" value="MTE5Mzc3MDk4OTczNDA2ODI1NQ.Gp051d.yJLQfVCBNr71JEFqc_ub03gikr8nC5qETJqK-M" />
-        <env name="TOKEN" value="MTE5MzEzNTQwNTQxMTg2MDUwMA.GvxdOu.Ydt2ig1ghn-SAemxiyVWJEJLlAaP5FROyIk5_s" />
+        <env name="GANDALF_TOKEN" value="MTE5Mzc3MDk4OTczNDA2ODI1NQ.Gmz9HS.08BayyLkWc7MZNHVlJTJS5DgUesxlP9s4hiG6o" />
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -187,8 +186,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.baki_main" />
-        <item itemvalue="Python.gamble_cog" />
         <item itemvalue="Python.music_main" />
+        <item itemvalue="Python.gamble_cog" />
         <item itemvalue="Python.greetings_cog" />
         <item itemvalue="Python.music_cog" />
       </list>

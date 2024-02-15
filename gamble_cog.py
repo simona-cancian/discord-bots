@@ -276,8 +276,10 @@ class Gamble(commands.Cog):
         if 5 in fruit_count.values():
             times_factors = 5
         elif 4 in fruit_count.values():
-            times_factors = 2
+            times_factors = 3
         elif 3 in fruit_count.values():
+            times_factors = 2
+        elif 2 in fruit_count.values():
             times_factors = 1
         else:
             times_factors = 0

@@ -7,10 +7,13 @@ import os
 
 import discord
 from discord.ext import commands
+from dotenv import load_dotenv
 
 # Import cogs
 from help_cog import HelpCog
 from music_cog import MusicCog
+
+load_dotenv()
 
 intents = discord.Intents.all()
 bot = commands.Bot(command_prefix='/', intents=intents)

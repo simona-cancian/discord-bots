@@ -8,10 +8,13 @@ import os
 
 import discord
 from discord.ext import commands
+from dotenv import load_dotenv
 
 # Import cogs
 from gamble_cog import Gamble
 from greetings_cog import GreetingsCog
+
+load_dotenv()
 
 
 intents = discord.Intents.all()
@@ -25,10 +28,4 @@ async def main():
     await bot.start(os.getenv('BAKI_TOKEN'))
 
 asyncio.run(main())
-
-
-
-
-
-
 

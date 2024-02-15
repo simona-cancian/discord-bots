@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a6a6fbf9-d87c-45c3-b1e4-3281a6af7d85" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baki_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/baki_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/music_main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,9 +69,6 @@
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="BAKI_TOKEN" value="MTE5MzEzNTQwNTQxMTg2MDUwMA.GjgM4B.iAAVaL8mvIqWxrJby7s1UB3Q8MydMtJjF7fdX8" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -155,9 +154,6 @@
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="GANDALF_TOKEN" value="MTE5Mzc3MDk4OTczNDA2ODI1NQ.Gmz9HS.08BayyLkWc7MZNHVlJTJS5DgUesxlP9s4hiG6o" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -181,8 +177,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.baki_main" />
         <item itemvalue="Python.music_main" />
+        <item itemvalue="Python.baki_main" />
         <item itemvalue="Python.gamble_cog" />
         <item itemvalue="Python.greetings_cog" />
         <item itemvalue="Python.music_cog" />

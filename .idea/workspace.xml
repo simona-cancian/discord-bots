@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6a6fbf9-d87c-45c3-b1e4-3281a6af7d85" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/main.sqlite" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,44 +33,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.01_on_message.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02_commands.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MyClient_class (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.baki_main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dice_rolling_command.executor&quot;: &quot;Run&quot;,
-    &quot;Python.event.executor&quot;: &quot;Run&quot;,
-    &quot;Python.gamble (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.gamble_cog.executor&quot;: &quot;Run&quot;,
-    &quot;Python.greetings_cog (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.greetings_cog.executor&quot;: &quot;Run&quot;,
-    &quot;Python.help_cog.executor&quot;: &quot;Run&quot;,
-    &quot;Python.music_cog.executor&quot;: &quot;Run&quot;,
-    &quot;Python.music_main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.music_play_commands.executor&quot;: &quot;Run&quot;,
-    &quot;Python.new_members.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.01_on_message.executor": "Run",
+    "Python.02_commands.executor": "Run",
+    "Python.MyClient_class (1).executor": "Run",
+    "Python.baki_main.executor": "Run",
+    "Python.dice_rolling_command.executor": "Run",
+    "Python.event.executor": "Run",
+    "Python.gamble (1).executor": "Run",
+    "Python.gamble_cog.executor": "Run",
+    "Python.greetings_cog (1).executor": "Run",
+    "Python.greetings_cog.executor": "Run",
+    "Python.help_cog.executor": "Run",
+    "Python.music_cog.executor": "Run",
+    "Python.music_main.executor": "Run",
+    "Python.music_play_commands.executor": "Run",
+    "Python.new_members.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/User/PycharmProjects/Discord-Bot-Tutorials"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\PycharmProjects\Discord-Bot-Tutorials" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.music_main">
+  <component name="RunManager" selected="Python.baki_main">
     <configuration name="baki_main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="discord-bots" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-        <env name="BAKI_TOKEN" value="MTE5MzEzNTQwNTQxMTg2MDUwMA.GjgM4B.iAAVaL8mvIqWxrJby7s1UB3Q8MydMtJjF7fdX8" />
-        <env name="GANDALF_TOKEN" value="MTE5Mzc3MDk4OTczNDA2ODI1NQ.Gmz9HS.08BayyLkWc7MZNHVlJTJS5DgUesxlP9s4hiG6o" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -158,10 +152,6 @@
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-        <env name="GANDALF_TOKEN" value="MTE5Mzc3MDk4OTczNDA2ODI1NQ.Gmz9HS.08BayyLkWc7MZNHVlJTJS5DgUesxlP9s4hiG6o" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
